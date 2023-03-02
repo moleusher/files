@@ -1,0 +1,13 @@
+1. SMILES, a chemical language and information system. 1. Introduction to methodology and encoding rules
+David Weininger
+Journal of Chemical Information and Computer Sciences 1988 28 (1), 31-36
+DOI: 10.1021/ci00057a005
+2. http://www.daylight.com/dayhtml/doc/theory/theory.smiles.html
+MILES		Name			SMILES		Name
+CC		ethane			[OH3+]		hydronium ion
+O=C=O		carbon dioxide		[2H]O[2H]	deuterium oxide
+C#N		hydrogen cyanide	[235U]		uranium-235
+CCN(CC)CC	triethylamine		F/C=C/F		E-difluoroethene
+CC(=O)O		acetic acid		F/C=C\F		Z-difluoroethene
+C1CCCCC1	cyclohexane		N[C@@H](C)C(=O)O	L-alanine
+c1ccccc1	benzene			N[C@H](C)C(=O)O		D-alanine

@@ -1,0 +1,17 @@
+冯老大，陈辉，
+
+规划总院一期项目，目前需要在自己的软件中实现根据SOL结构式，画出分子结构。之前拷给陈辉的那个buildmol只是一个内部使用工具，还没办法商业化。
+
+一个技术路线就是先将SOL转化为SMILES编码，再基于SMILES编码画图（冯老大FYI：SMILES是一种国际通用的化学分子编码形式）。
+
+第一步，SOL转化为SMILES，陈辉你来实现。
+
+第二步，SMILES转化为分子结构图，冯老大你来负责实现。要么你自己实现，时间不允许要么你安排最合适的人来实现。目前我初步调研下来，根据SMILES编码画分子结构图的API，有以下几个可行的：
+1. open babel
+http://openbabel.org/wiki/Main_Page
+
+2. RDkit
+http://www.rdkit.org/docs/GettingStartedInPython.html
+
+3. Chem Spider
+http://www.chemspider.com/AboutServices.aspx

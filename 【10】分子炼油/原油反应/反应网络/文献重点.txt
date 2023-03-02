@@ -1,0 +1,5 @@
+Molecular-Modeling-in-Heavy-Hydrocarbon-Conversions
+
+2 Molecular Structure and Composition Modeling of Complex Feedstocks
+2.3.2 MONTE CARLO CONSTRUCTION
+2.3.2.1 Monte Carlo Sampling Protocol
